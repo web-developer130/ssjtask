@@ -411,7 +411,7 @@ footer button.show {
               0 0 50px #03f9f4,
               0 0 100px #03e9f4;
       }
-@media screen and (max-width: 1200px) {
+@media screen and (min-width: 1200px) {
     
 
     .start_btn {
@@ -449,7 +449,7 @@ footer button.show {
 
     
   }
-  @media screen and (max-width: 1020px) {
+  @media screen and (min-width: 992px) {
     .start_btn {
       width: 95%;
     }
@@ -464,7 +464,7 @@ footer button.show {
         }
    
 }
-    @media screen and (max-width: 768px) {
+    @media screen and (mix-width: 768px) {
       .exit_btn{
         margin-top: 280px;
         margin-right:130em;
@@ -528,7 +528,7 @@ footer button.show {
                 margin-right:250px;
             }
 }
-@media screen and (max-width: 540px) {
+@media screen and (min-width: 576px) {
 
     .exit_btn{
         margin-top: 350px;
